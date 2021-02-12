@@ -93,9 +93,9 @@ text_area = Listbox(gui, width=48, height=3, font=("Times New Roman", 10))
 text_area.place(x=0, y=205)
 text_area.insert(listPlace, "Press Start To Start Program")
 listPlace += 1
-text_area.insert(listPlace, "When u press the key from keys this program will send ")
+text_area.insert(listPlace, "When u press the start from key this program will receive ")
 listPlace += 1
-text_area.insert(listPlace, 'to all other computer receiving with the same port')
+text_area.insert(listPlace, 'all data from other computer sending with the same port')
 text_area.select_set(END)
 text_area.yview(END)
 
