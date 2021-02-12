@@ -10,3 +10,6 @@ py main.py
 choose send or receive
 
 ![local_file_courier](https://i.ibb.co/xzFHT06/image.png)
+
+If you select send
+https://i.ibb.co/gDmfGjt/image.png
