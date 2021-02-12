@@ -11,6 +11,12 @@ choose send or receive
 
 ![local_file_courier](https://i.ibb.co/xzFHT06/image.png)
 
-If you select send
+If you select send select a folder to send and hit start
 
 ![local_file_courier](https://i.ibb.co/gDmfGjt/image.png)
+
+If you select receive select a folder to put the received files in with the same port and local ip and press the start button
+
+![local_file_courier](https://i.ibb.co/8PX25Gy/image.png)
+
+(Note) Sender should have cmd prompt active all times through out the file transfer
