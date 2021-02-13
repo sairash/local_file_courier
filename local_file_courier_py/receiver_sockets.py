@@ -42,10 +42,7 @@ with sock,sock.makefile('rb') as clientfile:
         path = os.path.join(filepath+'\\localCourier\\version_'+str(numberOfFiles),filename)
         # print()
         paths_array=path.split('..\\')
-        new_path=''
-        for path_from_array in paths_array:
-            new_path = new_path+path_from_array
-        print(new_path)
+        new_path = paths_array.join('')
         os.makedirs(os.path.dirname(new_path),exist_ok=True)
 
         # Read the data in chunks so it can handle large files.
