@@ -1,4 +1,3 @@
-![local_file_courier](https://img.shields.io/github/license/sairash/local_file_courier)
 ![local_file_courier](https://raw.githubusercontent.com/sairash/local_file_courier/master/local_file_courier_py/logo.png)
 # local_file_courier
 Transfer files to another computer through router. (Internet not required)
@@ -24,3 +23,4 @@ If you select receive select a folder to put the received files in with the same
 ![local_file_courier](https://i.ibb.co/8PX25Gy/image.png)
 
 (Note) Sender should have cmd prompt active all times through out the file transfer
+![local_file_courier](https://img.shields.io/github/license/sairash/local_file_courier)
